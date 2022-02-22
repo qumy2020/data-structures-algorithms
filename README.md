@@ -19,5 +19,5 @@
 - [ ]  数据结构算法 - 14 深度优先搜索和广度优先搜索
 - [ ]  数据结构算法 - 15 位运算和数据方法讲解
 
-版权声明：本文为CSDN博主「qumy2017」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
-原文链接：https://blog.csdn.net/weixin_40575457/article/details/123058170
+CSDN博主：qumy2017」<br/>
+CSDN链接：https://blog.csdn.net/weixin_40575457/article/details/123058170
